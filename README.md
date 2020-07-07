@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data-Science-Projects:four_leaf_clover:
 
 <h2>This folder includes all my Data Science Project work from the course:</h2>
 <h3>INFO 6105 - Data Science Engineering at NEU Seattle</h3>
