@@ -1,0 +1,261 @@
+City,Property Type,Period Begin,Period End,Median Sale Price (in 000's of dollars)
+Redmond,All Residential,10/1/2019,10/31/2019,809
+Redmond,Condo/Co-op,10/1/2019,10/31/2019,408
+Redmond,Multi-Family (2-4 Unit),10/1/2019,10/31/2019,862
+Redmond,Single Family Residential,10/1/2019,10/31/2019,935
+Redmond,Townhouse,10/1/2019,10/31/2019,645
+Mercer Island,All Residential,10/1/2019,10/31/2019,1541
+Mercer Island,Condo/Co-op,10/1/2019,10/31/2019,571
+Mercer Island,Multi-Family (2-4 Unit),10/1/2019,10/31/2019,1863
+Mercer Island,Single Family Residential,10/1/2019,10/31/2019,1620
+Mercer Island,Townhouse,10/1/2019,10/31/2019,1205
+Tacoma,All Residential,10/1/2019,10/31/2019,309
+Tacoma,Condo/Co-op,10/1/2019,10/31/2019,271
+Tacoma,Multi-Family (2-4 Unit),10/1/2019,10/31/2019,418
+Tacoma,Single Family Residential,10/1/2019,10/31/2019,299
+Tacoma,Townhouse,10/1/2019,10/31/2019,278
+Bothell,All Residential,10/1/2019,10/31/2019,662
+Bothell,Condo/Co-op,10/1/2019,10/31/2019,511
+Bothell,Multi-Family (2-4 Unit),10/1/2019,10/31/2019,598
+Bothell,Single Family Residential,10/1/2019,10/31/2019,679
+Bothell,Townhouse,10/1/2019,10/31/2019,495
+Snoqualmie,All Residential,10/1/2019,10/31/2019,707
+Snoqualmie,Condo/Co-op,10/1/2019,10/31/2019,486
+Snoqualmie,Multi-Family (2-4 Unit),10/1/2019,10/31/2019,269
+Snoqualmie,Single Family Residential,10/1/2019,10/31/2019,736
+Snoqualmie,Townhouse,10/1/2019,10/31/2019,639
+Bellevue,All Residential,10/1/2019,10/31/2019,898
+Bellevue,Condo/Co-op,10/1/2019,10/31/2019,525
+Bellevue,Multi-Family (2-4 Unit),10/1/2019,10/31/2019,1172
+Bellevue,Single Family Residential,10/1/2019,10/31/2019,1114
+Bellevue,Townhouse,10/1/2019,10/31/2019,726
+Kent,All Residential,10/1/2019,10/31/2019,431
+Kent,Condo/Co-op,10/1/2019,10/31/2019,243
+Kent,Multi-Family (2-4 Unit),10/1/2019,10/31/2019,474
+Kent,Single Family Residential,10/1/2019,10/31/2019,450
+Kent,Townhouse,10/1/2019,10/31/2019,326
+Kirkland,All Residential,10/1/2019,10/31/2019,748
+Kirkland,Condo/Co-op,10/1/2019,10/31/2019,407
+Kirkland,Multi-Family (2-4 Unit),10/1/2019,10/31/2019,1860
+Kirkland,Single Family Residential,10/1/2019,10/31/2019,890
+Kirkland,Townhouse,10/1/2019,10/31/2019,647
+Issaquah,All Residential,10/1/2019,10/31/2019,708
+Issaquah,Condo/Co-op,10/1/2019,10/31/2019,414
+Issaquah,Multi-Family (2-4 Unit),10/1/2019,10/31/2019,848
+Issaquah,Single Family Residential,10/1/2019,10/31/2019,852
+Issaquah,Townhouse,10/1/2019,10/31/2019,634
+Seattle,All Residential,10/1/2019,10/31/2019,661
+Seattle,Condo/Co-op,10/1/2019,10/31/2019,498
+Seattle,Multi-Family (2-4 Unit),10/1/2019,10/31/2019,1009
+Seattle,Single Family Residential,10/1/2019,10/31/2019,708
+Seattle,Townhouse,10/1/2019,10/31/2019,724
+Olympia,All Residential,10/1/2019,10/31/2019,310
+Olympia,Condo/Co-op,10/1/2019,10/31/2019,211
+Olympia,Multi-Family (2-4 Unit),10/1/2019,10/31/2019,336
+Olympia,Single Family Residential,10/1/2019,10/31/2019,303
+Olympia,Townhouse,10/1/2019,10/31/2019,253
+Sammamish,All Residential,10/1/2019,10/31/2019,916
+Sammamish,Condo/Co-op,10/1/2019,10/31/2019,436
+Sammamish,Multi-Family (2-4 Unit),10/1/2019,10/31/2019,1195
+Sammamish,Single Family Residential,10/1/2019,10/31/2019,975
+Sammamish,Townhouse,10/1/2019,10/31/2019,676
+Kenmore,All Residential,10/1/2019,10/31/2019,677
+Kenmore,Condo/Co-op,10/1/2019,10/31/2019,354
+Kenmore,Multi-Family (2-4 Unit),10/1/2019,10/31/2019,684
+Kenmore,Single Family Residential,10/1/2019,10/31/2019,709
+Kenmore,Townhouse,10/1/2019,10/31/2019,554
+Redmond,All Residential,11/1/2019,11/30/2019,800
+Redmond,Condo/Co-op,11/1/2019,11/30/2019,404
+Redmond,Multi-Family (2-4 Unit),11/1/2019,11/30/2019,868
+Redmond,Single Family Residential,11/1/2019,11/30/2019,924
+Redmond,Townhouse,11/1/2019,11/30/2019,642
+Mercer Island,All Residential,11/1/2019,11/30/2019,1537
+Mercer Island,Condo/Co-op,11/1/2019,11/30/2019,577
+Mercer Island,Multi-Family (2-4 Unit),11/1/2019,11/30/2019,1877
+Mercer Island,Single Family Residential,11/1/2019,11/30/2019,1609
+Mercer Island,Townhouse,11/1/2019,11/30/2019,1262
+Tacoma,All Residential,11/1/2019,11/30/2019,304
+Tacoma,Condo/Co-op,11/1/2019,11/30/2019,263
+Tacoma,Multi-Family (2-4 Unit),11/1/2019,11/30/2019,417
+Tacoma,Single Family Residential,11/1/2019,11/30/2019,295
+Tacoma,Townhouse,11/1/2019,11/30/2019,276
+Bothell,All Residential,11/1/2019,11/30/2019,661
+Bothell,Condo/Co-op,11/1/2019,11/30/2019,516
+Bothell,Multi-Family (2-4 Unit),11/1/2019,11/30/2019,576
+Bothell,Single Family Residential,11/1/2019,11/30/2019,678
+Bothell,Townhouse,11/1/2019,11/30/2019,499
+Snoqualmie,All Residential,11/1/2019,11/30/2019,705
+Snoqualmie,Condo/Co-op,11/1/2019,11/30/2019,483
+Snoqualmie,Multi-Family (2-4 Unit),11/1/2019,11/30/2019,235
+Snoqualmie,Single Family Residential,11/1/2019,11/30/2019,732
+Snoqualmie,Townhouse,11/1/2019,11/30/2019,639
+Bellevue,All Residential,11/1/2019,11/30/2019,888
+Bellevue,Condo/Co-op,11/1/2019,11/30/2019,523
+Bellevue,Multi-Family (2-4 Unit),11/1/2019,11/30/2019,1170
+Bellevue,Single Family Residential,11/1/2019,11/30/2019,1100
+Bellevue,Townhouse,11/1/2019,11/30/2019,730
+Kent,All Residential,11/1/2019,11/30/2019,429
+Kent,Condo/Co-op,11/1/2019,11/30/2019,242
+Kent,Multi-Family (2-4 Unit),11/1/2019,11/30/2019,466
+Kent,Single Family Residential,11/1/2019,11/30/2019,449
+Kent,Townhouse,11/1/2019,11/30/2019,328
+Kirkland,All Residential,11/1/2019,11/30/2019,743
+Kirkland,Condo/Co-op,11/1/2019,11/30/2019,406
+Kirkland,Multi-Family (2-4 Unit),11/1/2019,11/30/2019,1876
+Kirkland,Single Family Residential,11/1/2019,11/30/2019,879
+Kirkland,Townhouse,11/1/2019,11/30/2019,656
+Issaquah,All Residential,11/1/2019,11/30/2019,698
+Issaquah,Condo/Co-op,11/1/2019,11/30/2019,411
+Issaquah,Multi-Family (2-4 Unit),11/1/2019,11/30/2019,866
+Issaquah,Single Family Residential,11/1/2019,11/30/2019,840
+Issaquah,Townhouse,11/1/2019,11/30/2019,635
+Seattle,All Residential,11/1/2019,11/30/2019,649
+Seattle,Condo/Co-op,11/1/2019,11/30/2019,490
+Seattle,Multi-Family (2-4 Unit),11/1/2019,11/30/2019,1012
+Seattle,Single Family Residential,11/1/2019,11/30/2019,696
+Seattle,Townhouse,11/1/2019,11/30/2019,724
+Olympia,All Residential,11/1/2019,11/30/2019,306
+Olympia,Condo/Co-op,11/1/2019,11/30/2019,209
+Olympia,Multi-Family (2-4 Unit),11/1/2019,11/30/2019,335
+Olympia,Single Family Residential,11/1/2019,11/30/2019,298
+Olympia,Townhouse,11/1/2019,11/30/2019,252
+Sammamish,All Residential,11/1/2019,11/30/2019,912
+Sammamish,Condo/Co-op,11/1/2019,11/30/2019,433
+Sammamish,Multi-Family (2-4 Unit),11/1/2019,11/30/2019,1201
+Sammamish,Single Family Residential,11/1/2019,11/30/2019,969
+Sammamish,Townhouse,11/1/2019,11/30/2019,683
+Kenmore,All Residential,11/1/2019,11/30/2019,678
+Kenmore,Condo/Co-op,11/1/2019,11/30/2019,355
+Kenmore,Multi-Family (2-4 Unit),11/1/2019,11/30/2019,690
+Kenmore,Single Family Residential,11/1/2019,11/30/2019,708
+Kenmore,Townhouse,11/1/2019,11/30/2019,562
+Redmond,All Residential,12/1/2019,12/31/2019,792
+Redmond,Condo/Co-op,12/1/2019,12/31/2019,400
+Redmond,Multi-Family (2-4 Unit),12/1/2019,12/31/2019,878
+Redmond,Single Family Residential,12/1/2019,12/31/2019,915
+Redmond,Townhouse,12/1/2019,12/31/2019,642
+Mercer Island,All Residential,12/1/2019,12/31/2019,1537
+Mercer Island,Condo/Co-op,12/1/2019,12/31/2019,583
+Mercer Island,Multi-Family (2-4 Unit),12/1/2019,12/31/2019,1900
+Mercer Island,Single Family Residential,12/1/2019,12/31/2019,1603
+Mercer Island,Townhouse,12/1/2019,12/31/2019,1328
+Tacoma,All Residential,12/1/2019,12/31/2019,299
+Tacoma,Condo/Co-op,12/1/2019,12/31/2019,255
+Tacoma,Multi-Family (2-4 Unit),12/1/2019,12/31/2019,416
+Tacoma,Single Family Residential,12/1/2019,12/31/2019,291
+Tacoma,Townhouse,12/1/2019,12/31/2019,275
+Bothell,All Residential,12/1/2019,12/31/2019,662
+Bothell,Condo/Co-op,12/1/2019,12/31/2019,521
+Bothell,Multi-Family (2-4 Unit),12/1/2019,12/31/2019,558
+Bothell,Single Family Residential,12/1/2019,12/31/2019,678
+Bothell,Townhouse,12/1/2019,12/31/2019,506
+Snoqualmie,All Residential,12/1/2019,12/31/2019,703
+Snoqualmie,Condo/Co-op,12/1/2019,12/31/2019,480
+Snoqualmie,Multi-Family (2-4 Unit),12/1/2019,12/31/2019,206
+Snoqualmie,Single Family Residential,12/1/2019,12/31/2019,730
+Snoqualmie,Townhouse,12/1/2019,12/31/2019,640
+Bellevue,All Residential,12/1/2019,12/31/2019,878
+Bellevue,Condo/Co-op,12/1/2019,12/31/2019,520
+Bellevue,Multi-Family (2-4 Unit),12/1/2019,12/31/2019,1172
+Bellevue,Single Family Residential,12/1/2019,12/31/2019,1089
+Bellevue,Townhouse,12/1/2019,12/31/2019,737
+Kent,All Residential,12/1/2019,12/31/2019,429
+Kent,Condo/Co-op,12/1/2019,12/31/2019,240
+Kent,Multi-Family (2-4 Unit),12/1/2019,12/31/2019,459
+Kent,Single Family Residential,12/1/2019,12/31/2019,449
+Kent,Townhouse,12/1/2019,12/31/2019,332
+Kirkland,All Residential,12/1/2019,12/31/2019,740
+Kirkland,Condo/Co-op,12/1/2019,12/31/2019,406
+Kirkland,Multi-Family (2-4 Unit),12/1/2019,12/31/2019,1903
+Kirkland,Single Family Residential,12/1/2019,12/31/2019,871
+Kirkland,Townhouse,12/1/2019,12/31/2019,670
+Issaquah,All Residential,12/1/2019,12/31/2019,690
+Issaquah,Condo/Co-op,12/1/2019,12/31/2019,407
+Issaquah,Multi-Family (2-4 Unit),12/1/2019,12/31/2019,888
+Issaquah,Single Family Residential,12/1/2019,12/31/2019,829
+Issaquah,Townhouse,12/1/2019,12/31/2019,639
+Seattle,All Residential,12/1/2019,12/31/2019,639
+Seattle,Condo/Co-op,12/1/2019,12/31/2019,482
+Seattle,Multi-Family (2-4 Unit),12/1/2019,12/31/2019,1018
+Seattle,Single Family Residential,12/1/2019,12/31/2019,684
+Seattle,Townhouse,12/1/2019,12/31/2019,725
+Olympia,All Residential,12/1/2019,12/31/2019,302
+Olympia,Condo/Co-op,12/1/2019,12/31/2019,206
+Olympia,Multi-Family (2-4 Unit),12/1/2019,12/31/2019,334
+Olympia,Single Family Residential,12/1/2019,12/31/2019,294
+Olympia,Townhouse,12/1/2019,12/31/2019,252
+Sammamish,All Residential,12/1/2019,12/31/2019,909
+Sammamish,Condo/Co-op,12/1/2019,12/31/2019,432
+Sammamish,Multi-Family (2-4 Unit),12/1/2019,12/31/2019,1212
+Sammamish,Single Family Residential,12/1/2019,12/31/2019,965
+Sammamish,Townhouse,12/1/2019,12/31/2019,693
+Kenmore,All Residential,12/1/2019,12/31/2019,681
+Kenmore,Condo/Co-op,12/1/2019,12/31/2019,356
+Kenmore,Multi-Family (2-4 Unit),12/1/2019,12/31/2019,702
+Kenmore,Single Family Residential,12/1/2019,12/31/2019,711
+Kenmore,Townhouse,12/1/2019,12/31/2019,573
+Redmond,All Residential,1/1/2020,1/31/2020,771
+Redmond,Condo/Co-op,1/1/2020,1/31/2020,393
+Redmond,Multi-Family (2-4 Unit),1/1/2020,1/31/2020,763
+Redmond,Single Family Residential,1/1/2020,1/31/2020,926
+Redmond,Townhouse,1/1/2020,1/31/2020,671
+Mercer Island,All Residential,1/1/2020,1/31/2020,1424
+Mercer Island,Condo/Co-op,1/1/2020,1/31/2020,467
+Mercer Island,Multi-Family (2-4 Unit),1/1/2020,1/31/2020,1741
+Mercer Island,Single Family Residential,1/1/2020,1/31/2020,1593
+Mercer Island,Townhouse,1/1/2020,1/31/2020,822
+Tacoma,All Residential,1/1/2020,1/31/2020,304
+Tacoma,Condo/Co-op,1/1/2020,1/31/2020,296
+Tacoma,Multi-Family (2-4 Unit),1/1/2020,1/31/2020,425
+Tacoma,Single Family Residential,1/1/2020,1/31/2020,298
+Tacoma,Townhouse,1/1/2020,1/31/2020,285
+Bothell,All Residential,1/1/2020,1/31/2020,636
+Bothell,Condo/Co-op,1/1/2020,1/31/2020,471
+Bothell,Multi-Family (2-4 Unit),1/1/2020,1/31/2020,865
+Bothell,Single Family Residential,1/1/2020,1/31/2020,676
+Bothell,Townhouse,1/1/2020,1/31/2020,502
+Snoqualmie,All Residential,1/1/2020,1/31/2020,622
+Snoqualmie,Condo/Co-op,1/1/2020,1/31/2020,443
+Snoqualmie,Multi-Family (2-4 Unit),1/1/2020,1/31/2020,853
+Snoqualmie,Single Family Residential,1/1/2020,1/31/2020,676
+Snoqualmie,Townhouse,1/1/2020,1/31/2020,648
+Bellevue,All Residential,1/1/2020,1/31/2020,868
+Bellevue,Condo/Co-op,1/1/2020,1/31/2020,468
+Bellevue,Multi-Family (2-4 Unit),1/1/2020,1/31/2020,1145
+Bellevue,Single Family Residential,1/1/2020,1/31/2020,1114
+Bellevue,Townhouse,1/1/2020,1/31/2020,695
+Kent,All Residential,1/1/2020,1/31/2020,414
+Kent,Condo/Co-op,1/1/2020,1/31/2020,238
+Kent,Multi-Family (2-4 Unit),1/1/2020,1/31/2020,614
+Kent,Single Family Residential,1/1/2020,1/31/2020,441
+Kent,Townhouse,1/1/2020,1/31/2020,327
+Kirkland,All Residential,1/1/2020,1/31/2020,800
+Kirkland,Condo/Co-op,1/1/2020,1/31/2020,418
+Kirkland,Multi-Family (2-4 Unit),1/1/2020,1/31/2020,2087
+Kirkland,Single Family Residential,1/1/2020,1/31/2020,1031
+Kirkland,Townhouse,1/1/2020,1/31/2020,645
+Issaquah,All Residential,1/1/2020,1/31/2020,676
+Issaquah,Condo/Co-op,1/1/2020,1/31/2020,382
+Issaquah,Multi-Family (2-4 Unit),1/1/2020,1/31/2020,676
+Issaquah,Single Family Residential,1/1/2020,1/31/2020,840
+Issaquah,Townhouse,1/1/2020,1/31/2020,608
+Seattle,All Residential,1/1/2020,1/31/2020,644
+Seattle,Condo/Co-op,1/1/2020,1/31/2020,478
+Seattle,Multi-Family (2-4 Unit),1/1/2020,1/31/2020,929
+Seattle,Single Family Residential,1/1/2020,1/31/2020,707
+Seattle,Townhouse,1/1/2020,1/31/2020,704
+Olympia,All Residential,1/1/2020,1/31/2020,303
+Olympia,Condo/Co-op,1/1/2020,1/31/2020,199
+Olympia,Multi-Family (2-4 Unit),1/1/2020,1/31/2020,344
+Olympia,Single Family Residential,1/1/2020,1/31/2020,309
+Olympia,Townhouse,1/1/2020,1/31/2020,259
+Sammamish,All Residential,1/1/2020,1/31/2020,823
+Sammamish,Condo/Co-op,1/1/2020,1/31/2020,397
+Sammamish,Multi-Family (2-4 Unit),1/1/2020,1/31/2020,1085
+Sammamish,Single Family Residential,1/1/2020,1/31/2020,911
+Sammamish,Townhouse,1/1/2020,1/31/2020,616
+Kenmore,All Residential,1/1/2020,1/31/2020,657
+Kenmore,Condo/Co-op,1/1/2020,1/31/2020,338
+Kenmore,Multi-Family (2-4 Unit),1/1/2020,1/31/2020,712
+Kenmore,Single Family Residential,1/1/2020,1/31/2020,710
+Kenmore,Townhouse,1/1/2020,1/31/2020,560
